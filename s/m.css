@@ -1,6 +1,7 @@
 html,body
 {font:400 98% serif;
  background-color:#000900;
+ background-image:url("../i/bg/dark.png");
  color:#EEBB99;
  height:100%;
  margin:0}
@@ -75,6 +76,7 @@ img{margin-left:4%}
 @media(prefers-color-scheme:light)
 {html,body
  {background-color:#F8F6E0;
+  background-image:url("../i/bg/light.png");
   color:#000009}
  h1{color:#602000}
  h2{color:#704020}
