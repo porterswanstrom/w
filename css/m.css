@@ -12,9 +12,9 @@ html,body{
 }
 
 .head{
-	font:400 120% sans;
+	font:400 115% sans;
 	color:#999000;
-	padding:35pt 15% 35pt 15%
+	padding:35pt 8% 35pt 8%
 }
 
 .body{padding:0pt 5% 60pt 5%}
@@ -30,23 +30,23 @@ html,body{
 }
 
 h1{
-	font-size:120%;
+	font-size:107%;
 	color:#CC9977;
-	padding-left:2%
+	padding-left:17.2pt
 }
 h2{
-	font-size:115%;
+	font-size:105%;
 	color:#AA7755;
 	padding-left:1.2%
 }
 h3{
-	font-size:110%;
+	font-size:105%;
 	color:#847884;
 	padding-left:.3%
 }
 
 a{
-	font-size:105%;
+	font-size:102%;
 	color:#989888;
 	text-decoration:none
 }
@@ -56,7 +56,10 @@ img{margin-left:4%}
 
 .sh{
 	font:400 78% mono;
-	padding-left:3%
+	color:#EE9F00;
+	border-left-style:solid;
+	border-color:#847884;
+	padding-left:2%
 }
 
 @media(prefers-color-scheme:light){
@@ -70,29 +73,33 @@ img{margin-left:4%}
 	h3{color:#403060}
 	a{color:#006070}
 	a:hover{color:#000000}
+	.sh{
+		color:#000000;
+		border-color:#403060
+	}
 }
 
 @media all and (min-width:0px){
-	.head{padding:28pt 15% 28pt 15%}
+	.head{padding:28pt 15% 28pt 12.5%}
 	.body{padding:0pt 12% 60pt 12%}
 }
 @media all and (min-width:800px){
-	.head{padding:28pt 28% 28pt 28%}
+	.head{padding:28pt 28% 28pt 20.5%}
 	.body{padding:0pt 20% 60pt 20%}
 }
 @media all and (min-width:1000px){
-	.head{padding:28pt 25% 28pt 25%}
+	.head{padding:28pt 25% 28pt 20.5%}
 	.body{padding:0pt 20% 60pt 20%}
 }
 @media all and (min-width:1200px){
-	.head{padding:28pt 37% 28pt 37%}
+	.head{padding:28pt 37% 28pt 30.5%}
 	.body{padding:0pt 30% 60pt 30%}
 }
 @media all and (min-width:1400px){
-	.head{padding:28pt 32% 28pt 32%}
+	.head{padding:28pt 32% 28pt 28.5%}
 	.body{padding:0pt 28% 60pt 28%}
 }
 @media all and (min-width:1600px){
-	.head{padding:28pt 37% 28pt 37%}
+	.head{padding:28pt 37% 28pt 32.5%}
 	.body{padding:0pt 32% 60pt 32%}
 }
