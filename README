@@ -14,6 +14,16 @@ on during my break after the fall semester of 2024 ended.
 It's turned out to be a fantastic excuse to learn HTML,
 CSS, and Git
 
+2024/10/16
+There's now sitemap navigation which makes jumping to a
+specific page easy, it also works great for documenting the
+purpose of each page. I also added a photo of myself to the
+header, making it less plain/empty looking. The header photo
+also works great as a favicon. Another thing I did was adding
+backgrounds, one for dark mode and one for light mode. I'm
+not sure how long I'll end up keeping the backgrounds, but
+they're fun for the time being
+
 2024/06/15
 I redid the header and made the CSS look nicer. There's also
 been lots of minor improvements like having newlines in the
