@@ -62,16 +62,15 @@ img{margin-left:4%}
  color:#EE9F00;
  border-left-style:solid;
  border-color:#847884;
- line-height:1em;
+ line-height:1.3em;
  padding-left:2%}
 
 .tree
 {font:400 82% mono;
  color:#EE9F00;
- border-left-style:dotted;
  border-color:#847884;
- line-height:1em;
- padding-left:2%}
+ line-height:1.3em;
+ padding-left:5%}
 
 @media(prefers-color-scheme:light)
 {html,body
