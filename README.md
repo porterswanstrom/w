@@ -28,10 +28,10 @@ theme quite a bit since the last log
 
 #### 12/31/23
 I got the domain name porterswanstrom.com and created two
-A records, one for w.porterswanstrom.com and another for
-dev.porterswanstrom.com. the latter is setup to auto-redeploy
+A records, one for plain porterswanstrom.com and another for
+w.porterswanstrom.com. the latter is setup to auto-redeploy
 everytime a change is made to this site, so that the changes
-can be tested before being deployed to w.porterswanstrom.com
+can be tested before being deployed to porterswanstrom.com
 
 #### 12/18/23
 I figured out how to get the spacing and font size to work
