@@ -6,6 +6,13 @@ I host as a static site on kinsta
 
 ### LOG
 
+#### 06/15/24
+Redid the header and made the css look nicer. There's also
+been lots of minor improvements like having newlines in the
+correct spots and lots of rewording. This site is now in a
+fairly stable state, so most important changes will be from
+either adding new pages or totally redesigning something
+
 #### 03/25/24
 Every page has been moved to its own directory so that this
 site can use url slugs without relying on a framework or web
