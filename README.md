@@ -20,8 +20,8 @@ made throughout my classes in college. I also changed this
 site's theme quite a bit since the last log
 
 #### 12/31/23
-Just got the domain name porterswanstrom.com and created two
-A records, one for w.porterswanstrom.com and the other for
+Got the domain name porterswanstrom.com and created two
+A records, one for w.porterswanstrom.com and another for
 dev.porterswanstrom.com which is setup to auto-redeploy
 everytime a change is made to this site so that the changes
 can be tested before being deployed to w.porterswanstrom.com
@@ -41,7 +41,7 @@ mode with green links, a lot of redish orange headers, and
 a few purple headers
 
 #### 12/09/23
-Just started this site on the 6th and so far the only
-pages are the homepage, projects page, and about page.
-I also started to add some basic css and successfully
-got a working header and footer
+Started this site on the 6th and so far the only pages
+are the homepage, projects page, and about page. I also
+started to add some basic css and successfully got a
+working header and footer
