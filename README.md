@@ -1,7 +1,7 @@
 ### ABOUT
 
 I started this site to have something to do during my break
-before the 2024 fall semester began, it turned out to be a
+before the 2024 spring semester began, it turned out to be a
 fantastic excuse to learn HTML, CSS, and Git
 
 ### LOG
@@ -52,3 +52,22 @@ I started this site on the 6th and so far the only pages
 are the homepage, projects page, and about page. I also
 started to add some basic CSS and successfully got a
 working header and footer
+
+### SOURCE
+
+#### TREE
+```
+/ - home
+/e - error
+/gh - GitHub
+/gh/w - website GitHub
+/gh/wf - WinForms GitHub
+/p - projects
+/w - website
+/wf - WinForms
+```
+
+#### GET
+```
+git clone http://github.com/porterswanstrom/w
+```
