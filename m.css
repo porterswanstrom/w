@@ -6,9 +6,9 @@ html,body
  margin:0}
 
 h1
-{font-size:107%;
+{font-size:105%;
  color:#CC9977;
- padding-left:17.2pt}
+ padding-left:4.5pt}
 h2
 {font-size:105%;
  color:#AA7755;
@@ -34,8 +34,10 @@ img{margin-left:4%}
 {font:400 115% sans;
  color:#999000;
  padding:35pt 8% 35pt 8%}
+#h a{font-size:83.5%}
 
 #b{padding:0pt 5% 60pt 5%}
+#f a{font-size:85%}
 
 #f
 {font-size:70%;
