@@ -4,7 +4,7 @@ This is the source code for http://w.porterswanstrom.com,
 currently it's just a few html files and one css file that
 I host as a static site on kinsta.
 
-### Log
+### LOG
 
 #### 03/25/24
 Every page has been moved to its own directory so that this
