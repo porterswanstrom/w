@@ -13,11 +13,11 @@ h1
 h2
 {font-size:105%;
  color:#AA7755;
- padding-left:1.2%}
+ padding-left:.8%}
 h3
 {font-size:105%;
  color:#847884;
- padding-left:.3%}
+ padding-left:1.2%}
 
 a
 {font-size:102%;
@@ -64,13 +64,15 @@ img{margin-left:4%}
  color:#EE9F00;
  border-left-style:solid;
  border-color:#847884;
+ line-height:1em;
  padding-left:2%}
 
 .tree
-{font:400 72% mono;
+{font:400 82% mono;
  color:#EE9F00;
  border-left-style:dotted;
  border-color:#847884;
+ line-height:1em;
  padding-left:2%}
 
 @media(prefers-color-scheme:light)
