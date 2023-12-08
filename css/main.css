@@ -2,8 +2,8 @@
 
 html, body{
 	font:400 11.6pt serif;
-	background-color: #FFFEFC;
-	color: #0F0800;
+	background-color: #000000;
+	color: #cc00ff;
 	margin:0;
 	padding:0;
 	height:100%;
@@ -11,7 +11,7 @@ html, body{
 	position:relative
 }
 
-a{color: #000077}
+a{color: #cc00ff}
 
 h1{
 	font-size:110%;
@@ -20,7 +20,7 @@ h1{
 
 h2{font-size:115%}
 
-h3{font-size:100%}
+h3{font-size:800%}
 
 img{
 	margin-left:4%;
@@ -34,7 +34,7 @@ img{
 
 .head{
 	font:400 1.2em sans;
-	background-color:#FFFFFF;
+	background-color:#cccccc;
 	padding:10pt 16%;
 	box-shadow:3px 3px 8px 4px lightgrey
 }
@@ -44,7 +44,7 @@ img{
 	text-decoration:none
 }
 
-.head a:hover{background-color: #EFEFEF}
+.head a:hover{background-color: #cccccc}
 
 .body{padding: 20pt 14% 60pt 14%}
 
